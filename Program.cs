@@ -11,7 +11,7 @@ namespace Assignment1_Spring2021
         {
 
             //Question 1
-            Console.WriteLine("Q1 :Enter the number of rows for the traingle:");
+            Console.WriteLine("Q1 : Enter the number of rows for the traingle:");
             int n = Convert.ToInt32(Console.ReadLine());
             printTriangle(n);
             Console.WriteLine();
